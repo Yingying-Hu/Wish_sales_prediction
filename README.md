@@ -4,6 +4,8 @@ This repoitory contains code and associated files for building ML models to pred
 ## Dataset
 The data is from an open dataset on Kaggle: https://www.kaggle.com/jmmvutu/summer-products-and-sales-in-ecommerce-wish
 
+![](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)
+
 ## Software Requirements
 - Python 3
 
