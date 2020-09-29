@@ -1,13 +1,13 @@
 # Sales of Summer Clothes in E-commerce Wish
 This repoitory contains code and associated files for building ML models to predict the product sales on Wish using AWS SageMaker.
 
-## Data
+## Dataset
 The data is from an open dataset on Kaggle: https://www.kaggle.com/jmmvutu/summer-products-and-sales-in-ecommerce-wish
 
-## Software
+## Software Requirements
 - Python 3
 
-## Python Libraries
+## Python Libraries 
 - os
 - pandas
 - numpy
